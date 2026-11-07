@@ -32,7 +32,7 @@ system_entry = {
         "I can only help with questions about the café."
     ),
 }
-KEEP = 6
+KEEP = 2
 
 # 3. Create the server.
 app = Flask(__name__)
